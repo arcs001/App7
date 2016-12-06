@@ -1,0 +1,16 @@
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\bin\Debug\App7.dll
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\bin\Debug\App7.pdb
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\bin\Debug\monotouch.dll
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\bin\Debug\System.dll
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\bin\Debug\System.Core.dll
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\bin\Debug\System.Xml.dll
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\bin\Debug\Mono.Dynamic.Interpreter.dll
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\bin\Debug\monotouch.xml
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\obj\Debug\App7.csprojResolveAssemblyReference.cache
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\obj\Debug\App7.dll
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\obj\Debug\App7.pdb

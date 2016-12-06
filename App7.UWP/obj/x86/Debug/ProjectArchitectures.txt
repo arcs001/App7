@@ -1,0 +1,2 @@
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7.UWP\App7.UWP.csproj;x86
+c:\users\alexde\documents\visual studio 2015\Projects\App7\App7\App7.csproj;neutral
